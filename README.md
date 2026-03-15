@@ -63,4 +63,4 @@ Languages        │ Python
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Bethi-blue)]((https://www.linkedin.com/in/rishi-kumar-bethi/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Bethi-blue)](www.linkedin.com/in/rishi-kumar-bethi)
