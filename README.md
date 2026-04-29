@@ -13,6 +13,14 @@ I focus on the **engineering layer of AI** — not just prompting models, but bu
 
 ## 🚀 Featured Projects
 
+### 🔬 [context-lens](https://github.com/Rishi-Bethi-007/context-lens)
+
+**Open-source Python library** that diagnoses context degradation in LLM agents — finds where your agent's memory breaks, at what token count, and how to fix it.
+`LangGraph` · `Python` · `NIAH probes` · `6 classifiers` · `HTML reports`
+→ `pip install reguliq-diagnostics` · [209 tests passing]
+
+> Research finding: LLMs don't degrade uniformly — they anchor to the beginning. Position 10–15% = 83% accuracy. Every other position ≤25%.
+
 ### 🇪🇺 [EU Regulatory Intelligence Agent](https://github.com/Rishi-Bethi-007/EU-Regulatory-Intelligence-Agent)
 **Production multi-agent AI system** helping European SMEs navigate GDPR and EU AI Act compliance obligations.
 `LangGraph` · `FastAPI` · `React/Vite` · `Supabase pgvector` · `AWS ECS Fargate` · `Claude Sonnet` · `GPT-4o`
